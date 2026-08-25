@@ -60,36 +60,45 @@ const stephany = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=stemarq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD&ring_color=C77DFF&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stemarq&layout=compact&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&langs_count=8" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stemarq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD&ring_color=C77DFF&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stemarq&layout=compact&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&langs_count=8" />
 
 <br/><br/>
 
 <img height="165" src="https://streak-stats.demolab.com?user=stemarq&hide_border=true&background=0D1117&stroke=7B2CBF&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF&sideLabels=E0D4F7&currStreakNum=E0AAFF&sideNums=C77DFF&dates=8B7BA8" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stemarq&bg_color=0D1117&color=E0D4F7&line=C77DFF&point=E0AAFF&area_color=7B2CBF&area=true&hide_border=true" width="95%" />
 
 </div>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="6" />
+
+## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"> Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stemarq/stemarq/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stemarq/stemarq/output/snake.svg" />
+  <img alt="Snake de contribuições" src="https://raw.githubusercontent.com/stemarq/stemarq/output/snake.svg" width="100%" />
+</picture>
+
+</div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Projetos em destaque
 
 <div align="center">
 
 <a href="https://github.com/stemarq/dashGit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stemarq&repo=dashGit&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stemarq&repo=dashGit&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
 </a>
 <a href="https://github.com/stemarq/GeneTools">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stemarq&repo=GeneTools&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stemarq&repo=GeneTools&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
 </a>
 <a href="https://github.com/stemarq/DudyApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stemarq&repo=DudyApp&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stemarq&repo=DudyApp&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
 </a>
 <a href="https://github.com/stemarq/avaliacao-pares">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stemarq&repo=avaliacao-pares&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stemarq&repo=avaliacao-pares&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
 </a>
 
 </div>
@@ -97,12 +106,6 @@ const stephany = {
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="6" />
 
 <div align="center">
-
-### 🏆 Troféus
-
-<img src="https://github-profile-trophy.vercel.app/?username=stemarq&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=stemarq&style=for-the-badge&color=7b2cbf&label=PROFILE+VIEWS" />
 
