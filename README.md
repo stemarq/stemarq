@@ -60,8 +60,8 @@ const stephany = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stemarq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD&ring_color=C77DFF&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stemarq&layout=compact&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&langs_count=8" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=stemarq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD&ring_color=C77DFF&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=stemarq&layout=compact&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&langs_count=6&size_weight=0.5&count_weight=0.5" />
 
 <br/><br/>
 
@@ -84,21 +84,23 @@ const stephany = {
 
 </div>
 
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" height="6" />
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Projetos em destaque
 
 <div align="center">
 
 <a href="https://github.com/stemarq/dashGit">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stemarq&repo=dashGit&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=stemarq&repo=dashGit&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
 </a>
 <a href="https://github.com/stemarq/GeneTools">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stemarq&repo=GeneTools&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=stemarq&repo=GeneTools&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
 </a>
 <a href="https://github.com/stemarq/DudyApp">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stemarq&repo=DudyApp&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=stemarq&repo=DudyApp&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
 </a>
 <a href="https://github.com/stemarq/avaliacao-pares">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=stemarq&repo=avaliacao-pares&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=stemarq&repo=avaliacao-pares&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
 </a>
 
 </div>
