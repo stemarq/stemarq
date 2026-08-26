@@ -90,17 +90,17 @@ const stephany = {
 
 <div align="center">
 
-<a href="https://github.com/stemarq/dashGit">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=stemarq&repo=dashGit&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
-</a>
-<a href="https://github.com/stemarq/GeneTools">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=stemarq&repo=GeneTools&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
-</a>
 <a href="https://github.com/stemarq/DudyApp">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=stemarq&repo=DudyApp&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
 </a>
-<a href="https://github.com/stemarq/avaliacao-pares">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=stemarq&repo=avaliacao-pares&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
+<a href="https://github.com/stemarq/Xepa">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=stemarq&repo=Xepa&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
+</a>
+<a href="https://github.com/stemarq/dashGit">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=stemarq&repo=dashGit&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
+</a>
+<a href="https://github.com/stemarq/GItIA">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=stemarq&repo=GItIA&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0D4F7&icon_color=9D4EDD" />
 </a>
 
 </div>
