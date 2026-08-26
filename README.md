@@ -65,7 +65,7 @@ const stephany = {
 
 <br/><br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=stemarq&hide_border=true&background=0D1117&stroke=7B2CBF&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF&sideLabels=E0D4F7&currStreakNum=E0AAFF&sideNums=C77DFF&dates=8B7BA8" />
+<img height="165" src="https://github-readme-streak-stats-chi-kohl.vercel.app/?user=stemarq&hide_border=true&background=0D1117&stroke=7B2CBF&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF&sideLabels=E0D4F7&currStreakNum=E0AAFF&sideNums=C77DFF&dates=8B7BA8&locale=pt_BR" />
 
 
 </div>
