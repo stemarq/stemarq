@@ -22,7 +22,7 @@ const stephany = {
   study:   "Ciência da Computação @ INTELI",
   based:   "São Paulo, Brasil",
   stack:   ["TypeScript", "Python", "React", "Node.js"],
-  loves:   ["interfaces bonitas", "dados bem organizados", "café ☕"],
+  loves:   ["interfaces bonitas", "dados bem organizados"],
   status:  "construindo coisas novas 🚀",
 };
 ```
